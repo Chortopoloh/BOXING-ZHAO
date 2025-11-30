@@ -1,0 +1,93 @@
+{
+  "Prib": {
+    "health": 200,
+    "attacks": {
+      "Attack": {
+        "damage": 20,
+        "recharge": 0
+      },
+      "Attack 2": {
+        "damage": 35,
+        "recharge": 2
+      },
+      "Special": {
+        "damageboost": 30,
+        "heal": 25,
+        "duration": 2,
+        "recharge": 3
+      },
+      "Super": {
+        "damage": 20,
+        "addit_factor": 0.5,
+        "recharge": 5
+      }
+    }
+  },
+
+  "Tam": {
+    "health": 100,
+    "attacks": {
+      "Attack": {
+        "damage": 10,
+        "recharge": 0
+      },
+      "Attack 2": {
+        "damage": 15,
+        "recharge": 1
+      },
+      "Special": {
+        "damage": 25,
+        "recharge": 2
+      },
+      "Super": {
+        "damage": 50,
+        "recharge": 6
+      }
+    }
+  },
+
+  "Aucoin": {
+    "health": 150,
+    "attacks": {
+      "Attack": {
+        "damage": 16,
+        "recharge": 0
+      },
+      "Attack 2": {
+        "damage": 30,
+        "recharge": 1
+      },
+      "Special": {
+        "heal": 25,
+        "recharge": 4
+      },
+      "Super": {
+        "damage": 55,
+        "recharge": 6
+      }
+    }
+  },
+
+  "Boxin": {
+    "health": 220,
+    "attacks": {
+      "Attack": {
+        "damage": 15,
+        "recharge": 0
+      },
+      "Attack 2": {
+        "damage": 25,
+        "recharge": 1
+      },
+      "Special": {
+        "damage": 12,
+        "heal": 45,
+        "recharge": 4
+      },
+      "Super": {
+        "reversedmg%": 0.7,
+        "recharge": 4
+      }
+    }
+  }
+}
