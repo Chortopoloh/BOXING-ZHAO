@@ -41,7 +41,7 @@
       },
       "Super": {
         "damage": 50,
-        "recharge": 6
+        "recharge": 5
       }
     }
   },
